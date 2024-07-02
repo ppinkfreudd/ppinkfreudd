@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ppinkfreudd/ppinkfreudd/master/banner.gif" alt="banner that says Rishit Das - Interdisciplinary CS Researcher" width="600">
+  <img src="https://raw.githubusercontent.com/ppinkfreudd/ppinkfreudd/master/banner2.gif" alt="banner that says Rishit Das - Interdisciplinary CS Researcher" width="600">
 </p>
 
 I'm Rishit Das, a Cognitive Science major with a keen interest in interdisciplinary computer science projects. I'm passionate about leveraging technology for innovative projects. My work spans AI, VR, and related data analysis projects. My aim in all my work is to blend cognitive science with computer science to create impactful user-facing applications.
