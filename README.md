@@ -22,5 +22,4 @@ I'm Rishit Das, a Cognitive Science major with a keen interest in interdisciplin
 
 - [Personal Website](https://rishit.info/)
 - [LinkedIn](https://www.linkedin.com/in/rishitdas/)
-- [GitHub](https://github.com/ppinkfreudd)
 - [Email](mailto:rdas@ucdavis.edu)
